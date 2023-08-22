@@ -10,7 +10,7 @@ This [file](https://github.com/mohsenkamini/SBU-DCAI/blob/milad/userObjects/moni
 
 ## Prometheus
 
-Configuration file is in /etc/prometheus/[prometheus.yml](https://github.com/mohsenkamini/SBU-DCAI/blob/milad/userObjects/monitoring/prometheus/prometheus.yml)
+Configuration file is in /etc/prometheus/[prometheus.yml](https://github.com/Mi-Kho/monitoring/blob/main/prometheus/prometheus.yml)
 
 ## Grafana
 
