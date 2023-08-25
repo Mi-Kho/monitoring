@@ -35,4 +35,9 @@ cd node_exporter-*.*-amd64 #replace version
 
 You can also use this [repo](https://github.com/prometheus/node_exporter).
 
+## DCGM Exporter
+
+Docker hub:
+nvidia/dcgm-exporter:3.2.5-3.1.7-rc1-ubuntu20.04
+
 
